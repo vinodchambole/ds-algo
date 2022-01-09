@@ -6,11 +6,11 @@ Data structures and algorithms
 
 # Hint
 
+Add the array elements in hashmap
+
 x+y = targetSum;
 
 y = targetSum -x;
-
-Add the array elements in hashmap
 
 iterate the given array and check if y is present in hashmap.
 
