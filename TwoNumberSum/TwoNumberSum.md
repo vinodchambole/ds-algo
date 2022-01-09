@@ -1,7 +1,7 @@
 # ds-algo
 Data structures and algorithms
 
-![img.png](img.png)
+![img.png](problem.png)
 
 
 # Hint 1
