@@ -13,7 +13,6 @@ class Solution1 {
     }
 
     public static boolean isValidSubsequence(List<Integer> array, List<Integer> sequence) {
-        // Write your code here.
         int seqIndex = 0;
         int arrayIndex = 0;
 
